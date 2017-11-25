@@ -1,2 +1,4 @@
-# virtualenv_for_windows_batch
-very basic batch file for creating a virtual environment and executing a python script
+# Batch file to create virtualenv and start python
+
+1. Just change the script name `hello.py` and possibly the virtualenvironment name `my_new_app`
+2. And replace the `requirements.txt` file to suit your needs
